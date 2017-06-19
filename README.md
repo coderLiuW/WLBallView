@@ -6,10 +6,10 @@ http://www.jianshu.com/p/883d042178fa
 
 ![image](https://raw.githubusercontent.com/wangliujiayou/WLBallView/master/Untitled.gif)
 
-##框架使用
-1.导入#import "WLBallView.h"
-2.创建WLBallView控件
-3.调用starMotion方法即可实现
+## 框架使用
+1.导入 `#import "WLBallView.h"`
+2.创建`WLBallView`控件
+3.调用`WLBallView`方法即可实现
 
 ```
 // 创建控件
